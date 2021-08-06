@@ -1,26 +1,18 @@
-### Hi there, I'm Enzo
+### Welcome to my profile, I'm Enzo
 
 ## I'm a Student, Freelance Programmer and Graphic Designer
 
-- 
-- 
-- 
-- 
-- 
-
-### Connect with me:
-
-[<img align="left" alt="Enzo | Instagram" width="40px" src="https://img.icons8.com/dusk/512/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Enzo | LinkedIn" width="40px" src="https://img.icons8.com/dusk/512/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Enzo | Twitter" width="40px" src="https://img.icons8.com/dusk/512/000000/twitter.png" />][twitter]
-[<img align="left" alt="Enzo | Spotify" width="40px" src="https://img.icons8.com/dusk/512/000000/spotify.png" />][spotify]
+### My Setup
 
 
 
-<br />
+[<img align="left" alt="apple" width="30px" src="https://img.icons8.com/cute-clipart/480/000000/mac-os.png"/>][apple] 2020 MacBook Pro M1 | 1TB 16GB Unified Memory 
 
-### Languages and Tools:
+[<img align="left" alt="Sony Headphones" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/headphones.png"/>][headphones] Sony WH-1000XM4 Wireless Headphones
 
+
+
+### Languages and Tools
 
 ##### Programming
 [<img align="left" alt="Python 3" width="30px" src="https://img.icons8.com/color/150/000000/python--v2.png" />][python]
@@ -43,8 +35,6 @@
 
 <br />
 
-
-
 ##### Design
 [<img align="left" alt="Illustrator" width="30px" src="https://img.icons8.com/dusk/512/000000/adobe-illustrator.png" />][adobe]
 [<img align="left" alt="Photoshop" width="30px" src="https://img.icons8.com/dusk/512/000000/adobe-photoshop.png" />][adobe]
@@ -54,7 +44,21 @@
 
 <br />
 
+##### Other
+
+[<img align="left" alt="Blender 3D" width="30px" src="https://img.icons8.com/dusk/512/000000/blender-3d.png"/>][blender]
+
+<br />
+
 ---
+
+### Connect with me
+
+[<img align="left" alt="Enzo | Instagram" width="40px" src="https://img.icons8.com/dusk/512/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Enzo | LinkedIn" width="40px" src="https://img.icons8.com/dusk/512/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Enzo | Twitter" width="40px" src="https://img.icons8.com/dusk/512/000000/twitter.png" />][twitter]
+[<img align="left" alt="Enzo | Spotify" width="40px" src="https://img.icons8.com/dusk/512/000000/spotify.png" />][spotify]
+
 
 [twitter]: https://twitter.com/VillaramaEnzo
 [linkedin]: https://www.linkedin.com/in/enzo-villarama/
@@ -81,4 +85,6 @@
 [c++]: https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160
 
 [adobe]: https://www.adobe.com/nz/
-
+[blender]: https://www.blender.org
+[apple]: https://www.apple.com/nz/
+[headphones]: https://www.sony.co.nz/electronics/headband-headphones/wh-1000xm4
