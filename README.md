@@ -1,4 +1,4 @@
-### Hi there, I'm Enzo - aka ___E_Vil 👋
+### Hi there, I'm Enzo
 
 ## I'm a Student, Freelance Programmer and Graphic Designer!!
 
