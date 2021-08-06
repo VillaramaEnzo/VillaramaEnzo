@@ -13,6 +13,8 @@
 [<img align="left" alt="Enzo | Instagram" width="40px" src="https://img.icons8.com/dusk/512/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Enzo | LinkedIn" width="40px" src="https://img.icons8.com/dusk/512/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Enzo | Twitter" width="40px" src="https://img.icons8.com/dusk/512/000000/twitter.png" />][twitter]
+[<img align="left" alt="Enzo | Spotify" width="40px" src="https://img.icons8.com/dusk/512/000000/spotify.png" />][spotify]
+
 
 
 <br />
@@ -50,6 +52,8 @@
 [twitter]: https://twitter.com/VillaramaEnzo
 [linkedin]: https://www.linkedin.com/in/enzo-villarama/
 [instagram]: https://www.instagram.com/___e_vil/
+[spotify]: https://open.spotify.com/user/ecl1ps3n1nja
+
 
 [python]: https://www.python.org
 [html]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
