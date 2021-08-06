@@ -6,9 +6,11 @@
 
 
 
-[<img align="left" alt="apple" width="30px" src="https://img.icons8.com/cute-clipart/480/000000/mac-os.png"/>][apple] 2020 MacBook Pro M1 | 1TB 16GB Unified Memory 
+[<img align="left" alt="apple" width="30px" src="https://img.icons8.com/cute-clipart/480/000000/mac-os.png"/>][apple] 
+2020 MacBook Pro M1 | 1TB SSD 16GB Unified Memory 
 
-[<img align="left" alt="Sony Headphones" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/headphones.png"/>][headphones] Sony WH-1000XM4 Wireless Headphones
+[<img align="left" alt="Sony Headphones" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/headphones.png"/>][headphones] 
+Sony WH-1000XM4 Wireless Headphones
 
 
 
