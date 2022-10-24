@@ -1,6 +1,6 @@
 ### Welcome to my profile, I'm Enzo
 
-## I'm a Student, Freelance Programmer and Graphic Designer
+## Freelance Programmer and Graphic Designer
 
 ### My Setup
 
