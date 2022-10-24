@@ -1,6 +1,6 @@
-### Welcome to my profile, I'm Enzo
-
-## Freelance Programmer and Graphic Designer
+### Welcome to my profile, 
+# I'm Enzo
+#### A Freelance Programmer and Graphic Designer from New Zealand
 
 ### My Setup
 
