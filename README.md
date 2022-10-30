@@ -58,7 +58,8 @@ Sony WH-1000XM4 Wireless Headphones
 
 ##### Other
 
-[<img align="left" alt="Blender 3D" width="30px" src="https://img.icons8.com/dusk/512/000000/blender-3d.png"/>][blender]
+[<img align="left" alt="Blender 3D" width="30px" src="https://img.icons8.com/color/512/000000/blender-3d.png"/>][blender]
+[<img align="left" alt="Figma" width="30px" src="https://img.icons8.com/color/512/000000/figma.png"/>][blender]
 
 <br />
 
