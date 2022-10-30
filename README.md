@@ -66,10 +66,10 @@ Sony WH-1000XM4 Wireless Headphones
 
 ### Connect with me
 
-[<img align="left" alt="Enzo | Instagram" width="40px" src="https://img.icons8.com/dusk/512/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Enzo | LinkedIn" width="40px" src="https://img.icons8.com/dusk/512/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Enzo | Twitter" width="40px" src="https://img.icons8.com/dusk/512/000000/twitter.png" />][twitter]
-[<img align="left" alt="Enzo | Spotify" width="40px" src="https://img.icons8.com/dusk/512/000000/spotify.png" />][spotify]
+[<img align="left" alt="Enzo | Instagram" width="40px" src="https://img.icons8.com/color/512/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Enzo | LinkedIn" width="40px" src="https://img.icons8.com/color/512/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Enzo | Twitter" width="40px" src="https://img.icons8.com/color/512/000000/twitter.png" />][twitter]
+[<img align="left" alt="Enzo | Spotify" width="40px" src="https://img.icons8.com/color/512/000000/spotify.png" />][spotify]
 
 
 [twitter]: https://twitter.com/VillaramaEnzo
