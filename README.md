@@ -2,31 +2,6 @@
 # I'm Enzo
 #### A Freelance Programmer and Graphic Designer from New Zealand
 
-### My Setup
-
-
-[<img align="left" alt="apple" width="30px" src="https://img.icons8.com/cute-clipart/480/000000/mac-os.png"/>][apple] Airpods | Gen 3
-
-[<img align="left" alt="apple" width="30px" src="https://img.icons8.com/cute-clipart/480/000000/mac-os.png"/>][apple] 
-2024 MacBook Pro M4 | 1TB SSD 24GB Unified Memory 
-
-[<img align="left" alt="apple" width="30px" src="https://img.icons8.com/cute-clipart/480/000000/mac-os.png"/>][apple] 
-2020 MacBook Pro M1 | 1TB SSD 16GB Unified Memory 
-
-[<img align="left" alt="apple" width="30px" src="https://img.icons8.com/cute-clipart/480/000000/mac-os.png"/>][apple] 
-iPhone 13 Pro | 256GB
-
-[<img align="left" alt="apple" width="30px" src="https://img.icons8.com/cute-clipart/480/000000/mac-os.png"/>][apple] 
-iPhone 7 | 128GB
-
-[<img align="left" alt="apple" width="30px" src="https://img.icons8.com/cute-clipart/480/000000/mac-os.png"/>][apple] 
-iPad Pro M1 | 256GB
-
-[<img align="left" alt="Sony Headphones" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/headphones.png"/>][headphones] 
-Sony WH-1000XM4 Wireless Headphones
-
-
-
 ### Languages and Tools
 
 ##### Programming
