@@ -63,7 +63,7 @@ My work is driven by curiosity, clarity, and the pursuit of building things that
 [youtube]: https://www.youtube.com/@project_enzo
 [youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 
-[tiktok]: https:/www.tiktok.com/@___e_vil
+[tiktok]: https://www.tiktok.com/@___e_vil
 [tiktok-badge]: https://img.shields.io/badge/Tiktok-12100E?style=for-the-badge&logo=tiktok&logoColor=white
 
 [discord-id]: 237463075328884739
