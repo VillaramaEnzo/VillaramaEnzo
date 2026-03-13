@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=F8F8F8&font=Lato&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!;+I'm+Enzo;"/>
 </h1>
 
-**`Experience Architect (Programmer/Designer/Creator)`**
+**`Experience Architect (Programmer/Designer/Creator/Writer)`**
 
 
 ### Building digital experiences that balance function and aesthetics. 
